@@ -3,7 +3,7 @@
   <display-name>Servlet</display-name>
   <servlet>
     <servlet-name>Servlet</servlet-name>
-    <servlet-class>mypackage.Calculator</servlet-class>
+    <servlet-class>http.org</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Servlet</servlet-name>
